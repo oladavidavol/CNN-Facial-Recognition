@@ -1,2 +1,9 @@
 # CNN-Facial-Recognition
 This facial recognition model is a lightweight Convoluted Neutral Network deployed using transfer learning and DNN for facial detection
+It was created as part of my MSc Data Science dissertation
+This model uses TensorFlow, OpenCV
+The Transfer learniong was done using VGGFace
+DNN was used for the facial detection 
+It is designed to be lightweight, so that it can be deployed on any resonably provisioned smartphone.
+The average facial image dataset this model generates for training contains 60 images, and is about 200KB
+The model uses image augmentation to increase the size of the dataset.
