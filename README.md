@@ -7,3 +7,7 @@ DNN was used for the facial detection
 It is designed to be lightweight, so that it can be deployed on any resonably provisioned smartphone.
 The average facial image dataset this model generates for training contains 60 images, and is about 200KB
 The model uses image augmentation to increase the size of the dataset.
+This file is segmented into the three components of the system
+1. Facial detection
+2. Model Training and Evaluation
+3. Facial Recognition
