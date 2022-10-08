@@ -11,5 +11,6 @@ This file is segmented into the three components of the system
 1. Facial detection
 2. Model Training and Evaluation
 3. Facial Recognition
+
 Possible applications of this model will be for facial recognititon use cases where the device used needs to be mobile, or where internet access is not guaranteed.
 These include search and rescue in remote areas, law enforcement, voter accreditation and access control devices.
